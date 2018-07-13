@@ -38,13 +38,13 @@ a {
 }
 
 a:link {
-    color: #4282b4;
+    color: #6499fe;
 }
 a:visited {
-    color: #4282b4;
+    color: #6499fe;
 }
 a:hover {
-    color: #4282b4;
+    color: #6499fe;
 }
 
 #widget_group {
@@ -59,8 +59,9 @@ a:hover {
 #title_bar {
     overflow: auto;
     margin-bottom: 5px;
-    background-color: #b2d8e8;
+    background-color: #00156a;
     border: 1px solid #aaaaaa;
+    color: white;
 }
 
 #contents {
@@ -193,7 +194,7 @@ a:hover {
     padding-top: 0px;
     padding-bottom: 0px;
     /* underlined buttons */
-    border-bottom: 5px solid #4282b4;
+    border-bottom: 5px solid #6499fe;
     /* rounded box buttons */
 /*
     background-color: #bbbbbb;

@@ -6,7 +6,7 @@
 <div id="title_bar">
   <div id="title">
     <h1 class="page_title">$station.location</h1>
-    <p class="lastupdate">$current.dateTime</p>
+    <p class="lastupdate">Last updated $current.dateTime</p>
   </div>
   <div id="rss_link"><a href="rss.xml">RSS</a></div>
   <div id="reports">
